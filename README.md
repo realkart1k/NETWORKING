@@ -1,0 +1,2 @@
+# NETWORKING
+Node MCU, API, Arduino UNO
